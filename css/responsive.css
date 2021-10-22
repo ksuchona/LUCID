@@ -1,0 +1,281 @@
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  .menu .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/bor.png") left bottom no-repeat;
+		background-size: auto;
+	}
+	.menu .navbar-light .navbar-nav .nav-link {
+		font-size: 20px;
+	}
+	.menu .navbar-light .navbar-nav .nav-link:hover{
+		background: url("../images/bor.png") left bottom no-repeat;
+		background-size: auto;
+	}
+	.banner{
+	padding: 40px 0px 55px;
+	}
+	.banner h2 {
+	    font-size: 40px;
+	    line-height: 50px;
+	}
+	.banner p {
+	    font-size: 16px;
+	    line-height: 22px;
+	}
+	.inner-btn .btn-primary {
+	    padding: 15px 18px;
+	    font-size: 16px;
+	}
+	.inner-btn .btn-info{
+		padding: 15px 18px;
+	    font-size: 16px;
+	}
+	.inner-feature h4 {
+    font-size: 40px;
+  }
+ 
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) 
+{
+  
+  /* CSS */
+  .menu .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/bor.png") left bottom no-repeat;
+		background-size: auto;
+	}
+	.menu .navbar-light .navbar-nav .nav-link {
+		font-size: 20px;
+	}
+	.menu .navbar-light .navbar-nav .nav-link:hover{
+		background: url("../images/bor.png") left bottom no-repeat;
+		background-size: auto;
+	}
+	.banner{
+	padding: 40px 0px 55px;
+	}
+	.banner h2 {
+	    font-size: 40px;
+	    line-height: 50px;
+	}
+	.banner p {
+	    font-size: 16px;
+	    line-height: 22px;
+	}
+	.inner-btn .btn-primary {
+	    padding: 15px 18px;
+	    font-size: 16px;
+	}
+	.inner-btn .btn-info{
+		padding: 15px 18px;
+	    font-size: 16px;
+	}
+	.inner-feature h4 {
+    font-size: 40px;
+  }
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  .menu .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/bor.png") left bottom no-repeat;
+		background-size: auto;
+	}
+	.menu .navbar-light .navbar-nav .nav-link {
+		font-size: 16px;
+	}
+	.menu .navbar-light .navbar-nav .nav-link:hover{
+		background: url("../images/bor.png") left bottom no-repeat;
+		background-size: auto;
+	}
+	.banner{
+	padding: 40px 0px 55px;
+	}
+	.banner h2 {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.banner p {
+	    font-size: 13px;
+	    line-height: 20px;
+	}
+	.inner-btn .btn-primary {
+	    padding: 14px 12px;
+	    font-size: 10px;
+	}
+	.inner-btn .btn-info{
+		padding: 14px 12px;
+	    font-size: 10px;
+	}
+	.feature-section {
+    padding: 50px 0px;
+	}
+	.title h5 {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 15px;
+	}
+	.title h2 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 15px;
+	}
+	.inner-feature {
+    padding: 0px 30px;
+	}
+	.inner-feature .icon {
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+	}
+	.aboutlong-section {
+    padding: 30px 0px;
+    
+	}
+	.aboutlong-section .title h2 {
+    font-size: 30px;
+	}
+	.aboutshort-section {
+    padding: 50px 0px;
+    
+	}
+		.aboutshort-section p{
+		font-size: 12px;
+	}
+	.testimonial-section .title {
+    margin-bottom: 0px;
+	}
+	.testimonial-section .owl-theme .item h4 {
+		font-size: 14px;
+	}
+	.see-section h2{
+    font-size: 30px;
+    margin-bottom: 30px
+  }
+  .see-section .inner-btn .btn-primary {
+	    padding: 14px 12px;
+	    font-size: 10px;
+	}
+	.see-section .inner-btn .btn-info{
+		padding: 14px 12px;
+	    font-size: 10px;
+	}
+  .price-section {
+    padding: 30px 0px;
+	}
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) 
+{
+  
+  /* CSS */
+	.menu .navbar-light .navbar-nav .nav-link.active{
+		background: url("../images/bor.png") left bottom no-repeat;
+		background-size: auto;
+	}
+	.menu .navbar-light .navbar-nav .nav-link {
+		font-size: 16px;
+	}
+	.menu .navbar-light .navbar-nav .nav-link:hover{
+		background: url("../images/bor.png") left bottom no-repeat;
+		background-size: auto;
+	}
+	.banner{
+	padding: 40px 0px 55px;
+	}
+	.banner h2 {
+	    font-size: 30px;
+	    line-height: 40px;
+	}
+	.banner p {
+	    font-size: 13px;
+	    line-height: 20px;
+	}
+	.inner-btn .btn-primary {
+	    padding: 14px 12px;
+	    font-size: 10px;
+	}
+	.inner-btn .btn-info{
+		padding: 14px 12px;
+	    font-size: 10px;
+	}
+	.feature-section {
+    padding: 50px 0px;
+	}
+	.title h5 {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 15px;
+	}
+	.title h2 {
+    font-size: 30px;
+    line-height: 40px;
+    margin-bottom: 15px;
+	}
+	.inner-feature {
+    padding: 0px 30px;
+	}
+	.inner-feature .icon {
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+	}
+	.aboutlong-section {
+    padding: 30px 0px;
+    
+	}
+	.aboutlong-section .title h2 {
+    font-size: 30px;
+	}
+	.aboutshort-section {
+    padding: 50px 0px;
+    
+	}
+	.aboutshort-section p{
+		font-size: 12px;
+	}
+	.testimonial-section .title {
+    margin-bottom: 0px;
+	}
+	.testimonial-section .owl-theme .item h4 {
+		font-size: 14px;
+	}
+	.see-section h2{
+    font-size: 30px;
+    margin-bottom: 30px
+  }
+  .see-section .inner-btn .btn-primary {
+	    padding: 14px 12px;
+	    font-size: 10px;
+	}
+	.see-section .inner-btn .btn-info{
+		padding: 14px 12px;
+	    font-size: 10px;
+	}
+  .price-section {
+    padding: 30px 0px;
+	}
+}
